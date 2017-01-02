@@ -60,36 +60,6 @@ display: block;
     height: 20%; 
 }
 
-@keyframes cambio {
-	0% {margin-left: 0;}
-	5% {margin-left: 0;}
-	
-	12% {margin-left: -150%;}
-	19% {margin-left: -150%;}
-	
-	24% {margin-left: -200%;}
-	29% {margin-left: -200%;}
-	
-	35% {margin-left: -300%;}
-	41% {margin-left: -300%;}
-
-	47% {margin-left: -450%;}
-	53% {margin-left: -450%;}
-	
-	58% {margin-left: -500%;}
-	64% {margin-left: -500%;}
-
-	69% {margin-left: -600%;}
-	75% {margin-left: -600%;}
-
-	81% {margin-left: -750%;}
-	86% {margin-left: -750%;}
-
-	92% {margin-left: -800%;}
-	100% {margin-left: -900%;}
-	
-}
-
 }
 
 
